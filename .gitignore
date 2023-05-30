@@ -1,0 +1,9 @@
+build
+__pycache__
+all_output_logs
+old
+outputs
+plot
+runs
+seq2seq/approxlinear/other_version
+seq2seq/approxlinear/py_script
